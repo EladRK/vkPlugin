@@ -1,7 +1,7 @@
-# vkPlugin
+# SLANGGA (vkPlugin)
 
 
-## mvp
+## product
 
 1. plugin over vk.com
 2. chrome extension? 
@@ -13,6 +13,10 @@
 8. let genetic algorithm to take it from there. (google search is better than google translte..)
 9. google can't translate russian slang and cursewords correctly (fenia - russian prison slang)
 10. MAKE MONEY!
+
+## MVP
+1. genetic algorithm for SLANG.
+2. 
 
 
 

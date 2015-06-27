@@ -6,7 +6,7 @@
 1. plugin over vk.com
 2. chrome extension? 
 3. mobile "web app"
-4. integrate OCR
+4. integrate image recognition for text (OCR)
 5. integrate google translate
 6. person to translate
 7. pick relevant fitness function

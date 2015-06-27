@@ -11,7 +11,8 @@
 6. person to translate
 7. pick relevant fitness function
 8. let genetic algorithm to take it from there. (google search is better than google translte..)
-9. 
+9. google can't translate russian slang and cursewords correctly (fenia - russian prison slang)
+10. MAKE MONEY!
 
 
 
